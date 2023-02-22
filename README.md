@@ -1,18 +1,14 @@
 <h1 align="center">Projeto 26 - Commerce</h1>
 
 <div>
-  Para a realização do projeto, foram utilizadas as seguintes tecnologias: Express, MySql, API RESTful, MSC, NodeJs, TypeScript, Mogoose, MongoDB.
+  Para a realização do projeto, foram utilizadas as seguintes tecnologias: Mogoose, MongoDB.
 </div>
 
 ##
 
 <div>
   <h3>Características do Projeto:</h3>
-  * Desenvolver API utilizando a arquitetura MSC (model-service-controller);</br>
-  * Desenvolver uma API de um CRUD (Create, Read, Update e Delete);</br>
   * Utilizar banco de dados MongoDB para a gestão de dados;</br>
-  * Desenvolver API RESTful.</br>
-  * Utilização de TypeScript;</br>
   * Mongoose;</br>
 </div>
 

@@ -1,2 +1,28 @@
-# Trybe-Projeto-26-Commerce
-Trybe - Mogoose - MogoDB - Express - TypeScript
+<h1 align="center">Projeto 26 - Commerce</h1>
+
+<div>
+  Para a realização do projeto, foram utilizadas as seguintes tecnologias: Express, MySql, API RESTful, MSC, NodeJs, TypeScript, Mogoose, MongoDB.
+</div>
+
+##
+
+<div>
+  <h3>Características do Projeto:</h3>
+  * Desenvolver API utilizando a arquitetura MSC (model-service-controller);</br>
+  * Desenvolver uma API de um CRUD (Create, Read, Update e Delete);</br>
+  * Utilizar banco de dados MongoDB para a gestão de dados;</br>
+  * Desenvolver API RESTful.</br>
+  * Utilização de TypeScript;</br>
+  * Mongoose;</br>
+</div>
+
+##
+
+<div>
+  <h3>Nota Final: 100%</h3>
+</div>
+
+##
+<h3>Galeria:</h3>
+<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Trybe-Projeto-26-Commerce/main/resultado_1.png" title="Projeto - 26" alt="J"/><br/>
+<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Trybe-Projeto-26-Commerce/main/resultado_2.png" title="Projeto - 26" alt="J"/><br/>
